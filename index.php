@@ -2,4 +2,4 @@
 
 echo "Index";
 
-echo " Hello world"
+echo " Hello world";
